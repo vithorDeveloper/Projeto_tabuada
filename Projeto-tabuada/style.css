@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(209, 105, 66);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+section{
+    width: 400px;
+    padding: 30px;
+    background-color: azure;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+h1{
+    text-align: center;
+    color: azure;
+}
